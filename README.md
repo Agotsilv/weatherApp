@@ -25,7 +25,7 @@ App Criado para poder verificar o tempo!
 ```
 ```bash
   # Enter directory
-  $ cd Tasks
+  $ cd weatherapp
 ```
 
 ```bash
