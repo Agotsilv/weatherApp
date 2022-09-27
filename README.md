@@ -3,11 +3,9 @@
 </h1>
 
 <h1 align="center" >
-  <img src='./github/modoClaro.jpeg' size={5}/>
-  <div>
-  <img src='./github/modoNoturno.jpeg' size={5}/>
+  <img src='./github/ModoNoturno.jpeg' style={{width: 100px}}/>
 
-  </div>
+ 
 </h1>
 
 ## 🧾 About
