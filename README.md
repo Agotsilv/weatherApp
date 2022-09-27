@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center" >
-  <img src='./github/ModoNoturno.jpeg' style={{width: 100px}}/>
+  <img src='./github/Noturno.gif' style={{width: 100px}}/>
 
  
 </h1>
