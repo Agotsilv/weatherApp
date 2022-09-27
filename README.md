@@ -1,5 +1,6 @@
 <h1 align="center">
-  <p>Project Shopping lists 🍎</p>
+  <p>Project weatherApp
+</p>
 </h1>
 
 <h1 align="center" >
